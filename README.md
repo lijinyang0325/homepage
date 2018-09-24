@@ -1,5 +1,5 @@
 # homepage
-Name: 李金洋
+# Name: 李金洋
 Major：国关
 Grade: 15级
 WEchat: 1502691383
